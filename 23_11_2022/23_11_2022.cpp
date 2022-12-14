@@ -7,6 +7,10 @@ using namespace std;
 int main()
 {
     cout << "Homework for 23.11.2022" << endl;
+
+    for (int i = 0; i < 10; i++) {
+        cout << "Test: " << i << endl;
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
