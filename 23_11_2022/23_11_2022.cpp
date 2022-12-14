@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     cout << "Homework for 23.11.2022" << endl;
+    cout << "Oops!..This homework is for 30.11.2022 now" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
