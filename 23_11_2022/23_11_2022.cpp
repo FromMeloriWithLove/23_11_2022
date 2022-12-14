@@ -11,6 +11,10 @@ int main()
     for (int i = 0; i < 10; i++) {
         cout << "Test: " << i << endl;
     }
+
+    for (int i = 10; i > 0; i--) {
+        cout << "Test2: " << i << endl;
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
